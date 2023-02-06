@@ -1,0 +1,28 @@
+2023/02/06 12:59:34 [I] [service.go:139] frps tcp listen on 0.0.0.0:7000
+2023/02/06 12:59:34 [I] [service.go:148] frps kcp listen on udp 0.0.0.0:7000
+2023/02/06 12:59:34 [I] [service.go:181] http service listen on 0.0.0.0:80
+2023/02/06 12:59:34 [I] [service.go:202] https service listen on 0.0.0.0:443
+2023/02/06 12:59:34 [I] [service.go:221] nat hole udp service listen on 0.0.0.0:7001
+2023/02/06 12:59:34 [I] [service.go:232] Dashboard listen on 0.0.0.0:7500
+2023/02/06 12:59:34 [I] [root.go:204] Start frps success
+2023/02/06 12:59:44 [I] [service.go:139] frps tcp listen on 0.0.0.0:7000
+2023/02/06 12:59:44 [I] [service.go:148] frps kcp listen on udp 0.0.0.0:7000
+2023/02/06 12:59:44 [I] [service.go:181] http service listen on 0.0.0.0:80
+2023/02/06 12:59:44 [I] [service.go:202] https service listen on 0.0.0.0:443
+2023/02/06 12:59:44 [I] [service.go:221] nat hole udp service listen on 0.0.0.0:7001
+2023/02/06 12:59:44 [I] [service.go:232] Dashboard listen on 0.0.0.0:7500
+2023/02/06 12:59:44 [I] [root.go:204] Start frps success
+2023/02/06 12:59:54 [I] [service.go:139] frps tcp listen on 0.0.0.0:7000
+2023/02/06 12:59:54 [I] [service.go:148] frps kcp listen on udp 0.0.0.0:7000
+2023/02/06 12:59:54 [I] [service.go:181] http service listen on 0.0.0.0:80
+2023/02/06 12:59:54 [I] [service.go:202] https service listen on 0.0.0.0:443
+2023/02/06 12:59:54 [I] [service.go:221] nat hole udp service listen on 0.0.0.0:7001
+2023/02/06 12:59:54 [I] [service.go:232] Dashboard listen on 0.0.0.0:7500
+2023/02/06 12:59:54 [I] [root.go:204] Start frps success
+2023/02/06 13:00:17 [I] [service.go:139] frps tcp listen on 0.0.0.0:7000
+2023/02/06 13:00:17 [I] [service.go:148] frps kcp listen on udp 0.0.0.0:7000
+2023/02/06 13:00:17 [I] [service.go:181] http service listen on 0.0.0.0:80
+2023/02/06 13:00:17 [I] [service.go:202] https service listen on 0.0.0.0:443
+2023/02/06 13:00:17 [I] [service.go:221] nat hole udp service listen on 0.0.0.0:7001
+2023/02/06 13:00:17 [I] [service.go:232] Dashboard listen on 0.0.0.0:7500
+2023/02/06 13:00:17 [I] [root.go:204] Start frps success
